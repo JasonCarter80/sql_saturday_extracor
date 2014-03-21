@@ -1,4 +1,4 @@
-#sql_saturday_extratcor
+#sql_saturday_extractor
 =====================
 
 This utility was built to extract SQL Saturday XML data into a MSSQL Database for analysis.  
