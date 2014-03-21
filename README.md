@@ -1,6 +1,8 @@
 #sql_saturday_extractor
 =====================
 
+* Please add any/all issues the the tracker and I will work on them, also hit m on twitter: TampaDBA *
+
 This utility was built to extract SQL Saturday XML data into a MSSQL Database for analysis.  
 
 ##Credentials:
